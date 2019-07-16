@@ -1,4 +1,4 @@
-import 'constants.dart';
+import 'package:bitcoin_ticker/utilities/constants.dart';
 import 'networking.dart';
 
 class BitcoinModel {
